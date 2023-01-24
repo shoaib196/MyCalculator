@@ -1,4 +1,3 @@
 # MyCalculator
-# MyCalculator
-# MyCalculator
-# MyCalculator
+
+A description of this package.
